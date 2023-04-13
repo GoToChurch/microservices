@@ -1,0 +1,13 @@
+# Versioning and metadata
+.dockerignore
+
+# Build dependencies
+dist.do
+node_modules
+
+# Environment (contains sensitive data)
+*.env
+
+# Misc
+.eslintrc.js
+.prettierrc
